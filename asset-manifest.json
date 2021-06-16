@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/pixelperfect_myteam/static/css/main.5f87f0f0.chunk.css",
+    "main.js": "/pixelperfect_myteam/static/js/main.9181616e.chunk.js",
+    "main.js.map": "/pixelperfect_myteam/static/js/main.9181616e.chunk.js.map",
+    "runtime-main.js": "/pixelperfect_myteam/static/js/runtime-main.2df1209a.js",
+    "runtime-main.js.map": "/pixelperfect_myteam/static/js/runtime-main.2df1209a.js.map",
+    "static/js/2.556150ff.chunk.js": "/pixelperfect_myteam/static/js/2.556150ff.chunk.js",
+    "static/js/2.556150ff.chunk.js.map": "/pixelperfect_myteam/static/js/2.556150ff.chunk.js.map",
+    "static/js/3.2b98f0f2.chunk.js": "/pixelperfect_myteam/static/js/3.2b98f0f2.chunk.js",
+    "static/js/3.2b98f0f2.chunk.js.map": "/pixelperfect_myteam/static/js/3.2b98f0f2.chunk.js.map",
+    "index.html": "/pixelperfect_myteam/index.html",
+    "service-worker.js": "/pixelperfect_myteam/service-worker.js",
+    "service-worker.js.map": "/pixelperfect_myteam/service-worker.js.map",
+    "static/css/main.5f87f0f0.chunk.css.map": "/pixelperfect_myteam/static/css/main.5f87f0f0.chunk.css.map",
+    "static/js/2.556150ff.chunk.js.LICENSE.txt": "/pixelperfect_myteam/static/js/2.556150ff.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/pixelperfect_myteam/static/media/Livvic-Thin.b26770dd.ttf",
+    "static/media/avatar-aiysha.e119a0c1.jpg": "/pixelperfect_myteam/static/media/avatar-aiysha.e119a0c1.jpg",
+    "static/media/avatar-arthur.098c2e26.jpg": "/pixelperfect_myteam/static/media/avatar-arthur.098c2e26.jpg",
+    "static/media/avatar-kady.78fc482c.jpg": "/pixelperfect_myteam/static/media/avatar-kady.78fc482c.jpg",
+    "static/media/bg-pattern-home-4-about-3.b850a64a.svg": "/pixelperfect_myteam/static/media/bg-pattern-home-4-about-3.b850a64a.svg",
+    "static/media/bg-pattern-home-5.95a2a621.svg": "/pixelperfect_myteam/static/media/bg-pattern-home-5.95a2a621.svg",
+    "static/media/icon-person.0a313a85.svg": "/pixelperfect_myteam/static/media/icon-person.0a313a85.svg",
+    "static/media/icon-quotes.c5173921.svg": "/pixelperfect_myteam/static/media/icon-quotes.c5173921.svg",
+    "static/media/menu.28107808.svg": "/pixelperfect_myteam/static/media/menu.28107808.svg",
+    "static/media/user.81d7b418.svg": "/pixelperfect_myteam/static/media/user.81d7b418.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2df1209a.js",
+    "static/js/2.556150ff.chunk.js",
+    "static/css/main.5f87f0f0.chunk.css",
+    "static/js/main.9181616e.chunk.js"
+  ]
+}
